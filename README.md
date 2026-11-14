@@ -6,7 +6,7 @@ My favorite movie is **Transformers**, a science fiction action film directed by
 
 ## Movie Poster
 
-![Transformers 2007 Movie Poster](images/transformers-poster.jpg) 
+![Transformers 2007 Movie Poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCh23A1f3REOXKw2V3BrmKg5Ek1242F0CZq8Z9ZU0TA&s) 
 
 ## About the Movie
 Transformers is about a race of giant robots from the planet Cybertron who can transform into vehicles and other machines. Two groups, the Autobots and Decepticons, come to Earth in search of the AllSpark, a powerful object that can give life to machines.
